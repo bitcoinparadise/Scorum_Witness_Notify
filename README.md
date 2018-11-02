@@ -31,9 +31,10 @@ Then set the following options in config.json:
 ```
 {
   "rpc_nodes": [
-    "https://prodnet.scorum.com/",  // Set the list of RPC nodes you would like to connect to (https://prodnet.scorum.com/ is the default if this is not set). The software will automatically fail over to the next node on the list if the current one is having issues.
+    "https://prodnet.scorum.com/",
     "ADDITIONAL_NODE_URL"
   ],
+  "chain_id": "chain_id, db4007d45f04c1403a7e66a5c66b5b1cdfc2dde8b5335d1d2f116d$
   "accountname": "USERNAME",
   "discorduser": "DISCORD_USER_ID",
   "token": "BOT_TOKEN",
