@@ -34,7 +34,7 @@ Then set the following options in config.json:
     "https://prodnet.scorum.com/",
     "ADDITIONAL_NODE_URL"
   ],
-  "chain_id": "chain_id, db4007d45f04c1403a7e66a5c66b5b1cdfc2dde8b5335d1d2f116d$
+  "chain_id": "chain_id, db4007d45f04c1403a7e66a5c66b5b1cdfc2dde8b5335d1d2f116d592ca3dbb1",
   "accountname": "USERNAME",
   "discorduser": "DISCORD_USER_ID",
   "token": "BOT_TOKEN",
